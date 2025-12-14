@@ -1,0 +1,13 @@
+# List of CSS files (relative to assets/css/) to inject, in order.
+# One per line. Lines starting with # are comments.
+
+amber.colors.css
+darkbody.colors.css
+matrix.colors.css
+minimal.colors.css
+navy.colors.css
+night.colors.css
+none.colors.css
+sandstone.colors.css
+sigma9.colors.css
+spc.colors.css

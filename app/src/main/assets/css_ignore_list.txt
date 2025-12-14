@@ -1,0 +1,6 @@
+# Enter page slugs (paths) to skip CSS injection, one per line.
+/scp-2409
+/sotmhub
+/unusual-investigations
+/ankoshoku
+/parawatch-hub
